@@ -214,6 +214,30 @@
       "usuario": "3",
       "actividad_id": "100",
       "estado": "activo"
+    },
+    {
+      "id": "28bd",
+      "tipoVinculacion": "Estudiante",
+      "fechaInscripcion": "2024-11-25T22:15:43.601Z",
+      "usuario": "3",
+      "actividad_id": "3",
+      "estado": "activo"
+    },
+    {
+      "id": "4b11",
+      "tipoVinculacion": "Estudiante",
+      "fechaInscripcion": "2024-11-25T22:15:51.190Z",
+      "usuario": "3",
+      "actividad_id": "4",
+      "estado": "activo"
+    },
+    {
+      "id": "3ade",
+      "tipoVinculacion": "Estudiante",
+      "fechaInscripcion": "2024-11-25T22:16:06.796Z",
+      "usuario": "3",
+      "actividad_id": "0",
+      "estado": "activo"
     }
   ],
   "instructor": [
